@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "C:\Users\2401127\Downloads\testng-1.0.dtd">
+<suite name="Parallel Suite" parallel="tests" thread-count="2">
+    <test name="Chrome Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+    <test name="Edge Test">
+        <parameter name="browser" value="edge"/>
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
