@@ -7,16 +7,16 @@ import org.openqa.selenium.edge.EdgeDriver;
 public class DriverFactory {
 	private static WebDriver driver;
     public static WebDriver initializeDriver(String browser) {
+    	
         if (browser.equalsIgnoreCase("chrome")) {
             driver=new ChromeDriver();
-            
         } else if (browser.equalsIgnoreCase("edge")) {
-           // driver.set(new EdgeDriver());
+        	System.getProperty("webdriver.edge.driver","C:\\Users\\2400875\\Downloads\\edgedriver_win64 (1)\\msedgedriver");
+        	driver = new EdgeDriver();
         } else {
             throw new RuntimeException("Unsupported browser: " + browser);
         }
-
-        getDriver().manage().window().maximize();
+        
         return getDriver();
     }
 

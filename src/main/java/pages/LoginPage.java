@@ -11,9 +11,9 @@ public class LoginPage {
         PageFactory.initElements(driver, this);
     }
 
-    public void navigateToLoginPage() {
-        driver.get("https://www.coursera.org/");
-    }
+//    public void navigateToLoginPage() {
+//        
+//    }
 
     public String getPageTitle() {
         return driver.getTitle();

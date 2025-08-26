@@ -6,7 +6,7 @@ import io.cucumber.java.After;
 import org.openqa.selenium.WebDriver;
 
 public class Hooks {
-    WebDriver driver;
+    public WebDriver driver;
 
     @Before
     public void setUp() {
@@ -17,5 +17,6 @@ public class Hooks {
     @After
     public void tearDown() {
         DriverFactory.quitDriver();
+        System.out.println("7");
     }
 }

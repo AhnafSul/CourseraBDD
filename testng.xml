@@ -6,10 +6,10 @@
             <class name="runners.TestRunner"/>
         </classes>
     </test>
-    <!-- <test name="Edge Test">
+    <test name="Edge Test">
         <parameter name="browser" value="edge"/>
         <classes>
             <class name="runners.TestRunner"/>
         </classes>
-    </test> -->
+    </test>
 </suite>
