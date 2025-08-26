@@ -10,7 +10,7 @@ import hooks.Hooks;
 
 public class CourseraTitle{
 
-    WebDriver driver;
+    static WebDriver driver;
 
     @Given("the user navigates to the Coursera homepage")
     public void navigateToCoursera() {

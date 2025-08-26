@@ -1,8 +1,10 @@
 package runners;
 
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
-import org.testng.annotations.Parameters;
 
 @CucumberOptions(
     features = "src/test/resources/features",
@@ -11,8 +13,16 @@ import org.testng.annotations.Parameters;
     monochrome = true
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
+	private static ThreadLocal<String> browserName =new ThreadLocal<>();
+	
+	
     @Parameters("browser")
+    @BeforeClass
     public void setBrowser(String browser) {
-        System.setProperty("browser", browser);
+        browserName.set(browser);
+    }
+    
+    public static String getBrowserName() {
+    	return browserName.get();
     }
 }
