@@ -12,11 +12,11 @@ public class Hooks {
     @Before
     public void setUp() {
         String browser = TestRunner.getBrowserName();
-//        if (browser == null) {
-//            // Default to chrome if the parameter is not set
-//            browser = "chrome";
-//        }
-//        System.out.println("Launching browser: " + browser);
+        if (browser == null) {
+            browser = "chrome"; // Default to chrome if the parameter is not set
+
+        }
+        System.out.println("Launching browser: " + browser);
         driver = DriverFactory.initializeDriver(browser);
     }
  

@@ -3,6 +3,7 @@ package runners;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import base.DriverFactory;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
@@ -13,16 +14,17 @@ import io.cucumber.testng.CucumberOptions;
     monochrome = true
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
-	private static ThreadLocal<String> browserName =new ThreadLocal<>();
+	//private static ThreadLocal<String> browserName =new ThreadLocal<>();
 	
-	
+	public static String browserName;
     @Parameters("browser")
     @BeforeClass
     public void setBrowser(String browser) {
-        browserName.set(browser);
+    	browserName=browser;
+        DriverFactory.initializeDriver(browser);
     }
     
     public static String getBrowserName() {
-    	return browserName.get();
+    	return browserName;
     }
 }
