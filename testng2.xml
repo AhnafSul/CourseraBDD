@@ -1,0 +1,8 @@
+
+<suite name="Parallel Suite" thread-count="2">
+    <test name="Chrome Test">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>

@@ -5,20 +5,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
-import base.DriverFactory;
-import hooks.Hooks;
-
 public class CourseraTitle{
 
-    static WebDriver driver;
+    WebDriver driver;
 
     @Given("the user navigates to the Coursera homepage")
     public void navigateToCoursera() {
 //        driver = new ChromeDriver();
 //        driver.manage().window().maximize();
-    	driver = DriverFactory.getDriver();
-    	driver.get("https://www.coursera.org/");
-    	driver.manage().window().maximize();
+//    	driver = DriverFactory.getDriver();
+//    	driver.get("https://www.coursera.org/");
+//    	driver.manage().window().maximize();
     }
 
     @Then("the page title should be {string}")
