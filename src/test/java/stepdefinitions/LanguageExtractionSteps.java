@@ -1,8 +1,5 @@
 package stepdefinitions;
 
-import org.openqa.selenium.WebDriver;
-
-import base.DriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

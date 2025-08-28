@@ -14,20 +14,13 @@ public class HomePage {
 		this.driver = DriverFactory.getDriver();
 		PageFactory.initElements(driver, this);
 	}
-	//LOCATORS
 	
 	@FindBy(css = "input[placeholder=\"What do you want to learn?\"]") WebElement search_txt; 
 	@FindBy(xpath = "//a[text()='For Enterprise']") WebElement enterprise_link;
 	@FindBy(xpath = "//a[text()='For Campus']") WebElement campus_link;
 	@FindBy(css = "a[href=\"/browse/language-learning\"]") WebElement langaugeLearning; 
 	
-	
-	//ACTION METHODS
-	
 	public void clickLanguageLearning() {
 		langaugeLearning.click();
-	}
-	
-	
-	
+	}	
 }

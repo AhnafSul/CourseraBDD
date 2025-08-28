@@ -31,7 +31,6 @@ public class languageLearningPage extends DriverFactory{
 	}
 	
 	public void printLanguage() {
-//		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",showMore);
 		showMore.click();
 		
 		System.out.println("There are "+ languageList.size()+" languages available.");
