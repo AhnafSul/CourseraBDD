@@ -29,4 +29,9 @@ public class HomePage {
 		logger.info("***** Clicking language learning *****");
 		langaugeLearning.click();
 	}	
+	
+	public void searchBar(String courseName) {
+		logger.info("***** Search Web Development *****");
+		search_txt.sendKeys(courseName);
+	}	
 }
