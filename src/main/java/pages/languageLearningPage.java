@@ -3,6 +3,9 @@ package pages;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,8 +14,9 @@ import org.openqa.selenium.support.PageFactory;
 import utils.ExcelWriter;
 import base.DriverFactory;
 
-public class languageLearningPage extends DriverFactory{
+public class languageLearningPage{
 	private WebDriver driver;
+	private static Logger logger = LogManager.getLogger(languageLearningPage.class); 
 	
 	public languageLearningPage() {
 		this.driver = DriverFactory.getDriver();
@@ -24,11 +28,14 @@ public class languageLearningPage extends DriverFactory{
 	@FindBy(xpath = "//button[@aria-label=\"Show more Language options\"]") WebElement showMore;
 	
 	public void changeTab() {
+		logger.info("***** Changing Tab *****");
+		
 		Set<String> windows = driver.getWindowHandles();
 		List<String> windowHandles = new ArrayList<>(windows);
 		driver.switchTo().window(windowHandles.get(windowHandles.size()-1));
 	}
 	
+
 	
 	
 	
@@ -37,6 +44,8 @@ public class languageLearningPage extends DriverFactory{
 	
 	
 	public void printLanguageAndLevel() {
+        logger.info("***** Extracted languages and levels *****");
+
 	    showMore.click();
 
 	    List<String> languages = new ArrayList<>();
@@ -55,41 +64,5 @@ public class languageLearningPage extends DriverFactory{
 	    ExcelWriter.writeLanguageAndLevel(languages, levels, "Extracted_Data.xlsx", browser + "_Results");
 	}
 
-//	public void printLanguage() {
-//		showMore.click();
-//		
-//		System.out.println("There are "+ languageList.size()+" languages available.");
-//		System.out.println("List of Languages:");
-//		List<String> Language=new ArrayList<>();
-//
-//		for(WebElement entry : languageList) {
-//			((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",entry);
-//			System.out.println(entry.getText());
-//			Language.add(entry.getText());
-//		}
-//		if(DriverFactory.getBrowser().equals("chrome"))
-//		ExcelWriter.ListToExcel(Language,"Language","Extracted_Data.xlsx","Chrome_Results");
-//		if(DriverFactory.getBrowser().equals("edge"))
-//		ExcelWriter.ListToExcel(Language,"Language","Extracted_Data.xlsx","Edge_Results");
-//
-//		
-//	}
-//	
-//	
-//	public void printLevel() {
-//		System.out.println("There are "+ levelList.size()+" levels available.");
-//		System.out.println("List of levels:");
-//		List<String> level=new ArrayList<>();
-//
-//		for(WebElement entry : levelList) {
-//			((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);",entry);
-//			level.add(entry.getText());
-//		}
-//		if(DriverFactory.getBrowser().equals("chrome"))
-//		ExcelWriter.ListToExcel(level,"Level","Extracted_Data.xlsx","Chrome_Results");
-//		if(DriverFactory.getBrowser().equals("edge"))
-//		ExcelWriter.ListToExcel(level,"Level","Extracted_Data.xlsx","Edge_Results");
-//
-//		
-//	}
+
 }
