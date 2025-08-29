@@ -22,13 +22,10 @@ public class LanguageExtractionSteps{
 	    lp.changeTab();
 	}
 
-	@Then("extract and print the available languages and count")
+	@Then("extract and print the available languages and level")
 	public void extract_and_print_the_available_languages_and_count() {
-		lp.printLanguage();
+		lp.printLanguageAndLevel();
 	}
 
-	@Then("extract and print the available levels and count")
-	public void extract_and_print_the_available_levels_and_count() {
-		lp.printLevel();
-	}
 }
+
