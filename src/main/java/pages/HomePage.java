@@ -3,6 +3,7 @@ package pages;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -34,6 +35,7 @@ public class HomePage {
 	public void searchBar(String courseName) {
 		logger.info("***** Search Web Development *****");
 		search_txt.sendKeys(courseName);
+		search_txt.sendKeys(Keys.ENTER);
 	}	
 	public void clickforUniversities() {
 		logger.info("***** Clicking For Universities *****");
