@@ -24,7 +24,8 @@ public class HomePage {
 	@FindBy(xpath = "//a[text()='For Enterprise']") WebElement enterprise_link;
 	@FindBy(xpath = "//a[text()='For Campus']") WebElement campus_link;
 	@FindBy(css = "a[href=\"/browse/language-learning\"]") WebElement langaugeLearning; 
-	
+	@FindBy(xpath = "//span[text()=' Universities']") WebElement forUniversities;
+
 	public void clickLanguageLearning() {
 		logger.info("***** Clicking language learning *****");
 		langaugeLearning.click();
@@ -34,4 +35,8 @@ public class HomePage {
 		logger.info("***** Search Web Development *****");
 		search_txt.sendKeys(courseName);
 	}	
+	public void clickforUniversities() {
+		logger.info("***** Clicking For Universities *****");
+		forUniversities.click();
+	}
 }
