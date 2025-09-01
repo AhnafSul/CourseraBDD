@@ -1,6 +1,9 @@
 package base;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.time.Duration;
+import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -10,6 +13,7 @@ public class DriverFactory {
 	
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 	private static ThreadLocal<String> browsers = new ThreadLocal<>();
+	public static Properties p;
 	
 	public static void setBrowser(String browser) {
 		browsers.set(browser);
@@ -23,6 +27,15 @@ public class DriverFactory {
 	}
 	
     public static void initializeDriver() {
+			try {
+				FileReader file = new FileReader("C:\\Users\\2400875\\git\\CourseraBDD\\src\\test\\resources\\config.properties");
+				p = new Properties();
+				p.load(file);	
+				
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
     	
     	String browser = browsers.get();
     	System.out.println(browser);
@@ -35,7 +48,7 @@ public class DriverFactory {
         } else {
             throw new RuntimeException("Unsupported browser: " + browser);
         }
-        getDriver().get("https://www.coursera.org/");
+        getDriver().get(p.getProperty("appURL"));
         getDriver().manage().window().maximize();
         getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         
