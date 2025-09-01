@@ -34,15 +34,7 @@ public class languageLearningPage{
 		List<String> windowHandles = new ArrayList<>(windows);
 		driver.switchTo().window(windowHandles.get(windowHandles.size()-1));
 	}
-	
 
-	
-	
-	
-	
-	
-	
-	
 	public void printLanguageAndLevel() {
         logger.info("***** Extracted languages and levels *****");
 
@@ -50,18 +42,18 @@ public class languageLearningPage{
 
 	    List<String> languages = new ArrayList<>();
 	    for (WebElement entry : languageList) {
-	        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", entry);
+//	        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", entry);
 	        languages.add(entry.getText());
 	    }
 
 	    List<String> levels = new ArrayList<>();
 	    for (WebElement entry : levelList) {
-	        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", entry);
+//	        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", entry);
 	        levels.add(entry.getText());
 	    }
 
 	    String browser = DriverFactory.getBrowser();
-	    ExcelWriter.writeLanguageAndLevel(languages, levels, "Extracted_Data.xlsx", browser + "_Results");
+	    ExcelWriter.writeLanguageAndLevel(languages, levels, "Extracted_Data.xlsx", browser + "_Results","Language","Level");
 	}
 
 

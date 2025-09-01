@@ -3,6 +3,7 @@ package pages;
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 import java.util.Set;
 
 import org.apache.logging.log4j.LogManager;
@@ -28,9 +29,9 @@ public class ContactUsPage{
 		PageFactory.initElements(driver, this);
 	}
 	
-	@FindBy(xpath = "//input[@id='FirstName']") WebElement firstName;
-	@FindBy(xpath = "//input[@id='LastName']") WebElement lastName;
-	@FindBy(xpath = "//input[@id='Email']") WebElement email;
+	@FindBy(xpath = "//input[@id='FirstName']") WebElement first_Name;
+	@FindBy(xpath = "//input[@id='LastName']") WebElement last_Name;
+	@FindBy(xpath = "//input[@id='Email']") WebElement emailID;
 	@FindBy(xpath = "//input[@id='Phone']") WebElement phone;
 	@FindBy(xpath = "//input[@id='Company']") WebElement Company;
 	@FindBy(xpath = "//select[@id='Institution_Type__c']") WebElement selectInstitutionType;
@@ -40,101 +41,61 @@ public class ContactUsPage{
 	@FindBy(xpath = "//select[@id='Self_reported_employees_to_buy_for__c']") WebElement selectNumberOfLearners;
 	@FindBy(xpath = "//select[@id='Country']") WebElement selectCountry;
 	@FindBy(xpath = "//button[text()='Submit']") WebElement submit;
+	@FindBy(css = "div.mktoErrorMsg") WebElement errorMsg;
+	@FindBy(css = "a[data-testid=\"ew_header_cta\"]") WebElement newContactButton;
+	@FindBy(xpath = "//select[@id='State']") WebElement selectState;
 	
-	
-	
-	public void enterFirstName(String value) {
-	    firstName.sendKeys(value);
-	}
-
-	public void enterLastName(String value) {
-	    lastName.sendKeys(value);
-	}
-
-	public void enterEmail(String value) {
-	    email.sendKeys(value);
-	}
-
-	public void enterPhone(String value) {
-	    phone.sendKeys(value);
-	}
-
-	public void enterCompany(String value) {
-	    Company.sendKeys(value);
-	}
-
-	
-	public void selectInstitutionType(String value) {
-	    Select institutionType = new Select(selectInstitutionType);
-	    institutionType.selectByVisibleText(value);
-	}
-
-	public void selectJobRole(String value) {
-	    Select jobRole = new Select(selectJobRole);
-	    jobRole.selectByVisibleText(value);
-	}
-
-	public void selectDepartment(String value) {
-	    Select department = new Select(selectDepartment);
-	    department.selectByVisibleText(value);
-	}
-
-	public void selectNeeds(String value) {
-	    Select needs = new Select(selectNeeds);
-	    needs.selectByVisibleText(value);
-	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-	    wait.until(new ExpectedCondition<Boolean>() {
-	        public Boolean apply(WebDriver driver) {
-	            return selectNumberOfLearners.isEnabled();
-	        }
-	    });
-
-	}
-
-	public void selectNumberOfLearners(String value) {
-	    Select numberOfLearners = new Select(selectNumberOfLearners);
-	    numberOfLearners.selectByVisibleText(value);
-	}
-
-	public void selectCountry(String value) {
-	    Select country = new Select(selectCountry);
-	    country.selectByVisibleText(value);
-	}
-
-	public void clickSubmit() {
+	public String fillForm(String firstName, String lastName, String email, String phoneNumber, String institutionType, String institutionName, String jobRole, String department, String need, String learners, String country, String states) throws InterruptedException {
+		first_Name.sendKeys(firstName);
+		last_Name.sendKeys(lastName);
+		emailID.sendKeys(email);
+		phone.sendKeys(phoneNumber);
+		Company.sendKeys(institutionName);
+		
+		Select s1 = new Select(selectInstitutionType);
+	    s1.selectByVisibleText(institutionType);
+	    
+	    Select s2 = new Select(selectJobRole);
+	    s2.selectByVisibleText(jobRole);
+	    
+	    Select s3 = new Select(selectDepartment);
+	    s3.selectByVisibleText(department);
+	    
+	    Select s4 = new Select(selectNeeds);
+	    s4.selectByVisibleText(need);
+	    
+	    Thread.sleep(3000);
+	    
+	    if(learners != null) {
+	    	Select s5 = new Select(selectNumberOfLearners);
+	    	s5.selectByVisibleText(learners);
+	    }
+	    
+	    Select s6 = new Select(selectCountry);
+	    s6.selectByVisibleText(country);
+	    
+	    Thread.sleep(3000);
+	    
+	    if(states != null) {
+	    	Select s7 = new Select(selectState);
+	    	s7.selectByVisibleText(states);
+	    }
+	    Thread.sleep(3000);
+	    
+	    logger.info("***** form filled *****");
 	    submit.click();
+	    
+	    if(errorMsg != null) {
+			 
+	    	String err = errorMsg.getText();
+	    	driver.navigate().refresh();
+	    	return err;
+			 
+		}
+		else {
+			newContactButton.click();
+			return null;
+		}
+	    
 	}
-
-	
-
-	
-public void fillContactForm(String first, String last, String emailVal, String phoneVal, String company,
-            String institutionType, String jobRole, String department, String needs,
-            String learners, String country) {
-
-enterFirstName(first);
-enterLastName(last);
-enterEmail(emailVal);
-enterPhone(phoneVal);
-enterCompany(company);
-selectInstitutionType(institutionType);
-selectJobRole(jobRole);
-selectDepartment(department);
-selectNeeds(needs); // handles dynamic dropdown activation
-
-if (selectNumberOfLearners.isEnabled()) {
-selectNumberOfLearners(learners);
-}
-
-selectCountry(country);
-}
-
-	
-	
-	
-	
-	
-
-
-
 }

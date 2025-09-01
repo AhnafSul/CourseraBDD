@@ -1,6 +1,6 @@
 package pages;
-
-import java.time.Duration;
+ 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -10,24 +10,20 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import base.DriverFactory;
-
+import utils.ExcelWriter;
+ 
 public class SearchPage {
-
 	private WebDriver driver;
-
 	private static Logger logger = LogManager.getLogger(HomePage.class); 
-
+ 
     public SearchPage() {
-
     	this.driver = DriverFactory.getDriver();
-
 		PageFactory.initElements(driver, this);
-
     }
-    
+ 
+    // WebElements for the first course
     @FindBy(css = "div[data-testid^=\"language:English\"]")
 
     WebElement sortLanguage;
@@ -35,8 +31,6 @@ public class SearchPage {
     @FindBy(css = "div[data-testid^='productDifficultyLevel:Beginner']")
 
     WebElement sortLevel;
-    
-    //WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(10));
     
 
     @FindBy(css = "a[data-click-key=\"search.search.click.search_card\"]")
@@ -49,43 +43,41 @@ public class SearchPage {
 
     @FindBy(css = "div[class=\"cds-CommonCard-metadata\"]>p")
 
-    List<WebElement> durationList;
-      
-
+    List<WebElement> durationList; 
+ 
     // --- Methods to get text for the course ---
-
-    public List<String> getCourseDetails() {
-
+ 
+    public void getCourseDetails() {
+    	logger.info("***** Fetching the course details and convert it into a list *****");
+  
     	logger.info("***** Fetching the course details and convert it into a list *****");
 
-        String t1 = "first title : " +titleList.get(0).getText();
+        String t1 = "title : " +titleList.get(0).getText();
 
-        String r1 = "first rating : " +ratingList.get(0).getText();
+        String r1 = "rating : " +ratingList.get(0).getText();
 
-        String h1 = "first duration : " + (durationList.get(0).getText().split(" · "))[2];
+        String d1 = "duration : " + (durationList.get(0).getText().split(" · "))[2];
 
-        String t2 = "Second title : " +titleList.get(1).getText();
+        String t2 = "title : " +titleList.get(1).getText();
 
-        String r2 = "first rating : " +ratingList.get(1).getText();
+        String r2 = "rating : " +ratingList.get(1).getText();
 
-        String h2 = "first duration : " + (durationList.get(1).getText().split(" · "))[2];
-
-        return Arrays.asList(t1,r1,h1,t2,r2,h2);
-
+        String d2 = "duration : " + (durationList.get(1).getText().split(" · "))[2];
+        List<String> courseDetails1 = Arrays.asList(t1,r1,d1);
+        List<String> courseDetails2 = Arrays.asList(t2,r2,d2);
+        String browser = DriverFactory.getBrowser();
+	    ExcelWriter.writeLanguageAndLevel(courseDetails1, courseDetails2, "Extracted_Data.xlsx", browser + "_CourseDetails","Course 1","Course 2");
+        
     }
-
+    
     public void languageSorting() {
-
     	sortLanguage.click();
-
     }
-
+    
     public void levelSorting() {
-
     	sortLevel.click();
-
     }
-
+    
 }
-
+ 
  

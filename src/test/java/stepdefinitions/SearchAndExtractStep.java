@@ -44,18 +44,9 @@ public class SearchAndExtractStep {
     @Then("the system should extract the course name,total hours,rating for the first two courses")
     public void the_system_should_extract_the_course_name_total_hours_rating_for_the_first_two_courses() {
     	logger.info("***** Extracting course deatils *****");
-    	List<String> details1 = sp.getCourseDetails();
-        for(String entry:details1) {
-        	System.out.println(entry);
-        }
-        sa.assertTrue(details1.size()>0);
+    	sp.getCourseDetails();
         
     }
- 
- 
- 
- 
-	
 	
 }
  

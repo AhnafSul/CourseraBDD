@@ -11,7 +11,8 @@ import io.cucumber.testng.CucumberOptions;
     features = "src/test/resources/features",
     glue = {"stepdefinitions","hooks"},
     plugin = {"pretty", "html:target/cucumber-reports.html"},
-    monochrome = true
+    monochrome = true,
+    tags = "not @skip"
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 

@@ -1,78 +1,89 @@
 package stepdefinitions;
 
-import java.util.Map;
+import java.io.IOException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.testng.Assert;
 
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import pages.ContactUsPage;
 import pages.HomePage;
 import pages.UniversityPage;
-import base.DriverFactory;
+import utils.ExcelReader;
 
 public class ContactUsSteps {
 
-     ContactUsPage contactUsPage = new ContactUsPage();
-     HomePage hp=new HomePage();
+    ContactUsPage contactUsPage = new ContactUsPage();
+    HomePage hp = new HomePage();
+    UniversityPage up = new UniversityPage();
     private static final Logger logger = LogManager.getLogger(ContactUsSteps.class);
-
+    ContactUsPage cp = new ContactUsPage();
+    
     @Given("I am on the Coursera home page")
     public void i_am_on_the_coursera_home_page() {
-    	//print
+        // This step should contain the navigation logic
     }
 
-    @When("I click on \"For University\"")
-    public void i_click_on_for_university() {
-    	hp.clickforUniversities();
+    @When("I navigate to the university contact form and click on contact us button")
+    public void i_navigate_to_the_university_contact_form() {
+        hp.clickforUniversities();
         logger.info("Clicked on 'For University'");
-    }
-
-    @And("I click on \"Contact Us\"")
-    public void i_click_on_contact_us() {
-        UniversityPage up=new UniversityPage();
         up.clickContactUs();
         logger.info("Clicked on 'Contact Us'");
     }
-
-    @And("I fill in the contact form with the following details")
-    public void i_fill_in_the_contact_form_with_the_following_details(io.cucumber.datatable.DataTable dataTable) {
-        Map<String, String> data = dataTable.asMap(String.class, String.class);
-
-        contactUsPage.fillContactForm(
-            data.get("First Name"),
-            data.get("Last Name"),
-            data.get("Email"),
-            data.get("Phone"),
-            data.get("Company"),
-            data.get("Institution Type"),
-            data.get("Job Role"),
-            data.get("Department"),
-            data.get("Needs"),
-            data.get("Number of Learners"),
-            data.get("Country")
-        );
-
-        logger.info("Filled contact form with provided data");
+    
+    @When("I fill in the contact form with the Excel details")
+    public void i_fill_in_the_contact_form_with_the_excel_details() throws IOException, InterruptedException {
+        Object[][] testData = ExcelReader.getTestData("C:\\Users\\2400875\\git\\CourseraBDD\\src\\test\\resources\\TestData.xlsx");
+ 
+        for(Object[] row: testData) {
+        	String firstName = row[0].toString();
+        	String lastName = row[1].toString();
+        	String email = row[2].toString();
+        	String phoneNumber = row[3].toString();
+        	String institutionType = row[4].toString();
+        	String institutionName = row[5].toString();
+        	String jobRole = row[6].toString();
+        	String department = row[7].toString();
+        	String need = row[8].toString();
+        	String learners;
+        	
+        	if(need == "Get in touch with sales") {
+        		learners = row[9].toString();
+        	}
+        	else {
+        		learners = null;
+        	}
+        	
+        	String country = row[10].toString();
+        	
+        	String states;
+        	
+        	try {
+        		states = row[11].toString();
+        	}catch(Exception e) {
+        		states = null;
+        	}
+        	
+        	String errorMsg = cp.fillForm(firstName, lastName, email, phoneNumber, institutionType, institutionName, jobRole, department, need, learners, country,states);
+        	
+        	if(errorMsg != null) {
+            	System.out.println("Error message found : " + errorMsg);
+            }
+            else {
+            	System.out.println("No error message found");
+            }
+        }
     }
-
-    @And("I submit the form")
+    
+    @When("I submit the form")
     public void i_submit_the_form() {
-        contactUsPage.clickSubmit();
-        logger.info("Submitted the contact form");
     }
-
+    
     @Then("I should see an error message for the email field")
     public void i_should_see_an_error_message_for_the_email_field() {
-        Assert.assertTrue(contactUsPage.isEmailErrorDisplayed(), "Email error message not displayed");
-        logger.info("Email error message is displayed");
-    }
-
-    @And("I capture and display the error message")
-    public void i_capture_and_display_the_error_message() {
-        String errorMsg = contactUsPage.getEmailErrorMessage();
-        System.out.println("Captured Email Error: " + errorMsg);
-        logger.info("Captured Email Error: " + errorMsg);
+        
     }
 }

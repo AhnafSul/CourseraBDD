@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Edge Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Aug 29 11:43:21 IST 2025</td>
+<td>Started on:</td><td>Sun Aug 31 19:25:51 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>45 seconds (45601 ms)</td>
+<tr><td>Total time:</td><td>172 seconds (172286 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,16 +76,16 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='runners.TestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Extracting course details for beginners in web development", "Coursera Course Search and Extraction"</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;cds-react-aria-:R8qlmphel6dakqdala:&quot;]&quot;}
+<td title='runners.TestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Submit the contact form with an invalid email and capture the error message", "Validate Coursera University Contact Form"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//select[@id=&apos;State&apos;]&quot;}
   (Session info: MicrosoftEdge=139.0.3405.119)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.20.0&apos;, revision: &apos;866c76ca80&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.5&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21&apos;
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [b919cf87ae3f0744ea6970a7b4e226a2, findElement {value=//*[@id=&quot;cds-react-aria-:R8qlmphel6dakqdala:&quot;], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 139.0.3405.119, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62774}, msedge: {msedgedriverVersion: 139.0.3405.119 (c935b48ca94..., userDataDir: C:\Users\2401127\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62774/devtoo..., se:cdpVersion: 139.0.3405.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: b919cf87ae3f0744ea6970a7b4e226a2
+Command: [25232aab9e3072adb787e4479c298a8a, findElement {using=xpath, value=//select[@id=&apos;State&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 139.0.3405.119, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58820}, msedge: {msedgedriverVersion: 139.0.3405.111 (b50ccf47c3f..., userDataDir: C:\Users\2400875\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58820/devtoo..., se:cdpVersion: 139.0.3405.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25232aab9e3072adb787e4479c298a8a
 	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -99,20 +99,21 @@ Session ID: b919cf87ae3f0744ea6970a7b4e226a2
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at jdk.proxy2/jdk.proxy2.$Proxy40.click(Unknown Source)
-	at pages.SearchPage.languageSorting(SearchPage.java:69)
-	at stepdefinitions.SearchAndExtractStep.filters_by_beginner_level_and_english_language(SearchAndExtractStep.java:40)
-	at ✽.filters by Beginner level and English language(file:///C:/Users/2401127/eclipse-workspace/Selenium/seleniumwebdriver/MainProject/MainProject06/src/test/resources/features/searchandextract.feature:6)
-... Removed 3 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1058947075", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1058947075'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;cds-react-aria-:R8qlmphel6dakqdala:&quot;]&quot;}
+	at jdk.proxy2/jdk.proxy2.$Proxy40.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:43)
+	at pages.ContactUsPage.fillForm(ContactUsPage.java:93)
+	at stepdefinitions.ContactUsSteps.i_fill_in_the_contact_form_with_the_excel_details(ContactUsSteps.java:70)
+	at ✽.I fill in the contact form with the Excel details(file:///C:/Users/2400875/git/CourseraBDD/src/test/resources/features/ContactUsForm.feature:6)
+... Removed 3 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace154497376", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace154497376'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//select[@id=&apos;State&apos;]&quot;}
   (Session info: MicrosoftEdge=139.0.3405.119)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.20.0&apos;, revision: &apos;866c76ca80&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.5&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21&apos;
 Driver info: org.openqa.selenium.edge.EdgeDriver
-Command: [b919cf87ae3f0744ea6970a7b4e226a2, findElement {value=//*[@id=&quot;cds-react-aria-:R8qlmphel6dakqdala:&quot;], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 139.0.3405.119, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62774}, msedge: {msedgedriverVersion: 139.0.3405.119 (c935b48ca94..., userDataDir: C:\Users\2401127\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62774/devtoo..., se:cdpVersion: 139.0.3405.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: b919cf87ae3f0744ea6970a7b4e226a2
+Command: [25232aab9e3072adb787e4479c298a8a, findElement {using=xpath, value=//select[@id=&apos;State&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 139.0.3405.119, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58820}, msedge: {msedgedriverVersion: 139.0.3405.111 (b50ccf47c3f..., userDataDir: C:\Users\2400875\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58820/devtoo..., se:cdpVersion: 139.0.3405.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25232aab9e3072adb787e4479c298a8a
 	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -129,27 +130,14 @@ Session ID: b919cf87ae3f0744ea6970a7b4e226a2
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at jdk.proxy2/jdk.proxy2.$Proxy40.click(Unknown Source)
-	at pages.SearchPage.languageSorting(SearchPage.java:69)
-	at stepdefinitions.SearchAndExtractStep.filters_by_beginner_level_and_english_language(SearchAndExtractStep.java:40)
-	at ✽.filters by Beginner level and English language(file:///C:/Users/2401127/eclipse-workspace/Selenium/seleniumwebdriver/MainProject/MainProject06/src/test/resources/features/searchandextract.feature:6)
+	at jdk.proxy2/jdk.proxy2.$Proxy40.getTagName(Unknown Source)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:43)
+	at pages.ContactUsPage.fillForm(ContactUsPage.java:93)
+	at stepdefinitions.ContactUsSteps.i_fill_in_the_contact_form_with_the_excel_details(ContactUsSteps.java:70)
+	at ✽.I fill in the contact form with the Excel details(file:///C:/Users/2400875/git/CourseraBDD/src/test/resources/features/ContactUsForm.feature:6)
 </pre></div></td>
-<td>21</td>
-<td>runners.TestRunner@71c3b41</td></tr>
-</table><p>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td><b>Attribute(s)</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='runners.TestRunner.runScenario()'><b>runScenario</b><br>Test class: runners.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "extracting the language and levels from web development courses", "language and level extraction"</td>
-<td></td>
-<td>22</td>
-<td>runners.TestRunner@71c3b41</td></tr>
+<td>170</td>
+<td>runners.TestRunner@2f54a33d</td></tr>
 </table><p>
 </body>
 </html>
