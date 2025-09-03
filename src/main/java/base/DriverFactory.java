@@ -28,7 +28,8 @@ public class DriverFactory {
 	
     public static void initializeDriver() {
 			try {
-				FileReader file = new FileReader("C:\\Users\\2400875\\git\\CourseraBDD\\src\\test\\resources\\config.properties");
+				
+				FileReader file = new FileReader("src/test/resources/config.properties");
 				p = new Properties();
 				p.load(file);	
 				
@@ -43,7 +44,7 @@ public class DriverFactory {
         if (browser.equalsIgnoreCase("chrome")) {
             driver.set(new ChromeDriver());
         } else if (browser.equalsIgnoreCase("edge")) {
-        	System.setProperty("webdriver.edge.driver","C:\\Users\\2400875\\Downloads\\edgedriver_win64 (1)\\msedgedriver.exe");
+        	System.setProperty("webdriver.edge.driver","C:\\Users\\2401127\\Downloads\\edgedriver_win64 (1)\\msedgedriver.exe");
         	driver.set(new EdgeDriver());
         } else {
             throw new RuntimeException("Unsupported browser: " + browser);

@@ -21,7 +21,7 @@ public class SearchAndExtractStep {
     private static Logger logger = LogManager.getLogger(HomePage.class);
     SoftAssert sa = new SoftAssert();
     
-    
+    	
     @Given("the user is in home page")
     public void the_user_is_in_home_page() {
     	logger.info("***** user is in the home page *****");

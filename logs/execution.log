@@ -540,3 +540,357 @@
 [2025-09-01 15:43:03] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
 [2025-09-01 15:43:04] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250901_154304' will be added with a trimmed name 'edge_CourseDetails_20250901_154' for MS Excel compliance.
 [2025-09-01 15:43:04] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:28:15] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:28:15] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:28:29] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:28:35] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:28:43] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:28:43] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:28:48] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:28:48] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:28:49] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:28:49] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:28:56] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:28:56] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:28:59] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:29:02] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:29:13] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:29:13] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:29:14] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:29:14] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:29:14] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:29:28] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:29:28] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:29:29] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:29:29] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:29:29] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:29:35] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:29:41] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:29:44] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:29:49] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:29:58] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:29:58] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:29:58] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:29:59] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:30:09] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:30:09] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:30:09] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:30:09] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:30:17] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:30:21] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:30:21] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:30:21] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:30:24] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250903_093024' will be added with a trimmed name 'chrome_CourseDetails_20250903_0' for MS Excel compliance.
+[2025-09-03 09:30:24] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:31:07] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:31:07] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:31:20] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:31:24] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:31:34] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:31:34] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:31:36] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:31:36] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:31:39] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:31:40] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:31:54] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:31:54] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:32:13] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:32:15] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:32:37] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:32:39] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:32:44] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:32:47] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:32:56] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:32:56] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:32:56] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:32:57] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:32:57] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:33:08] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:33:08] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:33:09] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:33:09] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:33:09] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:33:14] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:33:21] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:33:28] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:33:28] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:33:40] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:33:40] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:33:40] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:33:50] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:33:54] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:33:54] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:33:54] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:33:55] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:33:59] [TestNG-tests-2] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:33:59] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:33:59] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:34:01] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250903_093401' will be added with a trimmed name 'edge_CourseDetails_20250903_093' for MS Excel compliance.
+[2025-09-03 09:34:01] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:34:05] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:36:33] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:36:33] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:36:46] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:36:48] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:36:59] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:36:59] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:37:01] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:37:01] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:37:07] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:37:07] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:37:22] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:37:22] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:37:33] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:37:33] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:37:39] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:37:41] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:37:58] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:37:58] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:37:59] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:37:59] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:37:59] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:37:59] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:37:59] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:38:00] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:38:00] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:38:00] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:38:12] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:38:12] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:38:17] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:38:18] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:38:29] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:38:29] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:38:29] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:38:32] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:38:32] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:38:32] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:38:37] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:38:41] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:38:43] [TestNG-tests-2] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:38:43] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:38:43] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:38:44] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:38:45] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:38:45] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:38:45] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:38:46] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:42:18] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:42:18] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:42:38] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:42:38] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:42:50] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:42:54] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:43:02] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:43:02] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:43:05] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:43:05] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:43:08] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:43:10] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:43:23] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:43:23] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:43:33] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:43:33] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:43:41] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:43:45] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:43:58] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:43:58] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:44:00] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:44:00] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:44:00] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:44:00] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:44:00] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:44:02] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:44:02] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:44:02] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:44:11] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:44:15] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:44:17] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:44:21] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:44:26] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:44:26] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:44:26] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:44:34] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:44:36] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:44:36] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:44:36] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:44:40] [TestNG-tests-2] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:44:40] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:44:40] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:44:42] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250903_094442' will be added with a trimmed name 'edge_CourseDetails_20250903_094' for MS Excel compliance.
+[2025-09-03 09:44:42] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:44:47] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 09:44:48] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 09:44:48] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:44:48] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 09:44:50] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250903_094450' will be added with a trimmed name 'chrome_CourseDetails_20250903_0' for MS Excel compliance.
+[2025-09-03 09:44:50] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:48:48] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:48:48] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:49:02] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:49:09] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:49:14] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:49:14] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:49:20] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:49:22] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:49:22] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:49:25] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:49:35] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:49:38] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:49:45] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:49:48] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:49:52] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:49:58] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:50:04] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:50:04] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:50:05] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:50:05] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:50:05] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:50:14] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 09:50:14] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 09:50:15] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 09:50:15] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 09:50:15] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 09:50:21] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:50:26] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:50:30] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:50:34] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:50:41] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 09:50:41] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 09:50:41] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 09:58:40] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:58:40] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:58:53] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:58:57] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 09:59:06] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:59:06] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:59:12] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:59:14] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 09:59:14] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 09:59:27] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 09:59:29] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:59:38] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:59:40] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 09:59:44] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 09:59:48] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 09:59:56] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:00:02] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:00:02] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:00:03] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:00:03] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:00:03] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:00:18] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:00:20] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:00:20] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:00:21] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:00:21] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:00:21] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:00:27] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:00:34] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:00:36] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:00:36] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:00:36] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:00:42] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:00:43] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:00:48] [TestNG-tests-2] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 10:00:48] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:00:48] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:00:50] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250903_100050' will be added with a trimmed name 'edge_CourseDetails_20250903_100' for MS Excel compliance.
+[2025-09-03 10:00:50] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:00:52] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:00:52] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:00:52] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:01:00] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:01:04] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 10:01:04] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:01:04] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:01:05] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250903_100105' will be added with a trimmed name 'chrome_CourseDetails_20250903_1' for MS Excel compliance.
+[2025-09-03 10:01:05] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:02:26] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:02:26] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:02:37] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 10:02:45] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 10:02:53] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 10:02:53] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 10:02:55] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 10:02:55] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 10:02:59] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 10:03:00] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 10:03:13] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 10:03:13] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 10:03:24] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:03:30] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:03:35] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:03:41] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:03:41] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:03:43] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:03:43] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:03:43] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:03:45] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:03:55] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:03:57] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:03:57] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:03:57] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:03:57] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:03:57] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:04:01] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:04:09] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:04:13] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:04:13] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:04:13] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:04:16] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:04:22] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:04:28] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 10:04:28] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:04:28] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:04:30] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:04:34] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:04:34] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:04:34] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:04:41] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:04:46] [TestNG-tests-2] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 10:04:46] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:04:46] [TestNG-tests-2] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:04:47] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:05:55] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:05:55] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:06:06] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 10:06:10] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking For Universities *****
+[2025-09-03 10:06:20] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 10:06:20] [TestNG-tests-2] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 10:06:20] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'For University'
+[2025-09-03 10:06:20] [TestNG-tests-1] INFO  pages.UniversityPage - ***** Clicking Contact Us Button *****
+[2025-09-03 10:06:25] [TestNG-tests-1] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 10:06:25] [TestNG-tests-2] INFO  stepdefinitions.ContactUsSteps - Clicked on 'Contact Us'
+[2025-09-03 10:06:39] [TestNG-tests-1] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 10:06:39] [TestNG-tests-2] INFO  pages.ContactUsPage - ***** form filled *****
+[2025-09-03 10:06:49] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:06:50] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:06:56] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:06:57] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:07:09] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:07:09] [TestNG-tests-2] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:07:10] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:07:10] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:07:10] [TestNG-tests-2] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:07:14] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Click language learning *****
+[2025-09-03 10:07:14] [TestNG-tests-1] INFO  pages.HomePage - ***** Clicking language learning *****
+[2025-09-03 10:07:15] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Changing Tab *****
+[2025-09-03 10:07:15] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Extracting languages and levels *****
+[2025-09-03 10:07:15] [TestNG-tests-1] INFO  pages.languageLearningPage - ***** Extracted languages and levels *****
+[2025-09-03 10:07:24] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:07:26] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:07:30] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:07:32] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Starting scenario *****
+[2025-09-03 10:07:41] [TestNG-tests-2] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:07:41] [TestNG-tests-2] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:07:41] [TestNG-tests-2] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:07:42] [TestNG-tests-2] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:07:47] [TestNG-tests-1] INFO  pages.HomePage - ***** user is in the home page *****
+[2025-09-03 10:07:47] [TestNG-tests-1] INFO  pages.HomePage - ***** Search for 'Web development' *****
+[2025-09-03 10:07:47] [TestNG-tests-1] INFO  pages.HomePage - ***** Search Web Development *****
+[2025-09-03 10:07:52] [TestNG-tests-2] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-03 10:07:55] [TestNG-tests-1] INFO  pages.HomePage - ***** Filter the course based on language and levels *****
+[2025-09-03 10:07:59] [TestNG-tests-1] INFO  pages.HomePage - ***** Extracting course deatils *****
+[2025-09-03 10:07:59] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:07:59] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
+[2025-09-03 10:08:00] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****

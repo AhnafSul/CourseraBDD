@@ -36,7 +36,7 @@ public class ContactUsSteps {
     
     @When("I fill in the contact form with the Excel details")
     public void i_fill_in_the_contact_form_with_the_excel_details() throws IOException, InterruptedException {
-        Object[][] testData = ExcelReader.getTestData("C:\\Users\\2400875\\git\\CourseraBDD\\src\\test\\resources\\TestData.xlsx");
+        Object[][] testData = ExcelReader.getTestData("src/test/resources/TestData.xlsx");
  
         for(Object[] row: testData) {
         	String firstName = row[0].toString();

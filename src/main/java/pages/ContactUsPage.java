@@ -85,7 +85,7 @@ public class ContactUsPage{
 	    logger.info("***** form filled *****");
 	    submit.click();
 	    
-	    if(errorMsg != null) {
+	    if(errorMsg.isDisplayed()) {
 			 
 	    	String err = errorMsg.getText();
 	    	driver.navigate().refresh();
