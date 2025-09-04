@@ -4,19 +4,18 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import utils.ExcelWriter;
+
 import base.DriverFactory;
+import base.Log;
+import utils.ExcelWriter;
+
 
 public class languageLearningPage{
 	private WebDriver driver;
-	private static Logger logger = LogManager.getLogger(languageLearningPage.class); 
 	
 	public languageLearningPage() {
 		this.driver = DriverFactory.getDriver();
@@ -28,7 +27,7 @@ public class languageLearningPage{
 	@FindBy(xpath = "//button[@aria-label=\"Show more Language options\"]") WebElement showMore;
 	
 	public void changeTab() {
-		logger.info("***** Changing Tab *****");
+		Log.info("***** Changing Tab *****");
 		
 		Set<String> windows = driver.getWindowHandles();
 		List<String> windowHandles = new ArrayList<>(windows);
@@ -36,7 +35,7 @@ public class languageLearningPage{
 	}
 
 	public void printLanguageAndLevel() {
-        logger.info("***** Extracted languages and levels *****");
+		Log.info("***** Extracted languages and levels *****");
 
 	    showMore.click();
 

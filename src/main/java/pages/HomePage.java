@@ -1,8 +1,6 @@
 package pages;
 
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,10 +8,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import base.DriverFactory;
+import base.Log;
 
 public class HomePage {
 	private WebDriver driver;
-	private static Logger logger = LogManager.getLogger(HomePage.class); 
 	
 	
 	public HomePage() {
@@ -28,17 +26,17 @@ public class HomePage {
 	@FindBy(xpath = "//span[text()=' Universities']") WebElement forUniversities;
 
 	public void clickLanguageLearning() {
-		logger.info("***** Clicking language learning *****");
+		Log.info("***** Clicking language learning *****");
 		langaugeLearning.click();
 	}	
 	
 	public void searchBar(String courseName) {
-		logger.info("***** Search Web Development *****");
+		Log.info("***** Search Web Development *****");
 		search_txt.sendKeys(courseName);
 		search_txt.sendKeys(Keys.ENTER);
 	}	
 	public void clickforUniversities() {
-		logger.info("***** Clicking For Universities *****");
+		Log.info("***** Clicking For Universities *****");
 		forUniversities.click();
 	}
 }

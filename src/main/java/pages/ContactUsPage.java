@@ -1,28 +1,17 @@
 package pages;
 
-import java.time.Duration;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-import java.util.Set;
-
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import utils.ExcelWriter;
 import base.DriverFactory;
+import base.Log;
 
 public class ContactUsPage{
 	private WebDriver driver;
-	private static Logger logger = LogManager.getLogger(ContactUsPage.class); 
+//	private static Logger logger = LogManager.getLogger(ContactUsPage.class); 
 	
 	public ContactUsPage() {
 		this.driver = DriverFactory.getDriver();
@@ -82,7 +71,7 @@ public class ContactUsPage{
 	    }
 	    Thread.sleep(3000);
 	    
-	    logger.info("***** form filled *****");
+	    Log.info("***** form filled *****");
 	    submit.click();
 	    
 	    if(errorMsg.isDisplayed()) {

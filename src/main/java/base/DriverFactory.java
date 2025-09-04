@@ -44,7 +44,7 @@ public class DriverFactory {
         if (browser.equalsIgnoreCase("chrome")) {
             driver.set(new ChromeDriver());
         } else if (browser.equalsIgnoreCase("edge")) {
-        	System.setProperty("webdriver.edge.driver","C:\\Users\\2401127\\Downloads\\edgedriver_win64 (1)\\msedgedriver.exe");
+        	System.setProperty("webdriver.edge.driver",p.getProperty("driverPath"));
         	driver.set(new EdgeDriver());
         } else {
             throw new RuntimeException("Unsupported browser: " + browser);

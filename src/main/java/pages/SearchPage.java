@@ -1,22 +1,19 @@
 package pages;
  
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import base.DriverFactory;
+import base.Log;
 import utils.ExcelWriter;
  
 public class SearchPage {
 	private WebDriver driver;
-	private static Logger logger = LogManager.getLogger(HomePage.class); 
  
     public SearchPage() {
     	this.driver = DriverFactory.getDriver();
@@ -48,9 +45,9 @@ public class SearchPage {
     // --- Methods to get text for the course ---
  
     public void getCourseDetails() {
-    	logger.info("***** Fetching the course details and convert it into a list *****");
+    	Log.info("***** Fetching the course details and convert it into a list *****");
   
-    	logger.info("***** Fetching the course details and convert it into a list *****");
+    	Log.info("***** Fetching the course details and convert it into a list *****");
 
         String t1 = "title : " +titleList.get(0).getText();
 

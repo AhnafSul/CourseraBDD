@@ -2,9 +2,7 @@ package stepdefinitions;
 
 import java.io.IOException;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
+import base.Log;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -18,7 +16,6 @@ public class ContactUsSteps {
     ContactUsPage contactUsPage = new ContactUsPage();
     HomePage hp = new HomePage();
     UniversityPage up = new UniversityPage();
-    private static final Logger logger = LogManager.getLogger(ContactUsSteps.class);
     ContactUsPage cp = new ContactUsPage();
     
     @Given("I am on the Coursera home page")
@@ -29,9 +26,9 @@ public class ContactUsSteps {
     @When("I navigate to the university contact form and click on contact us button")
     public void i_navigate_to_the_university_contact_form() {
         hp.clickforUniversities();
-        logger.info("Clicked on 'For University'");
+        Log.info("Clicked on 'For University'");
         up.clickContactUs();
-        logger.info("Clicked on 'Contact Us'");
+        Log.info("Clicked on 'Contact Us'");
     }
     
     @When("I fill in the contact form with the Excel details")
