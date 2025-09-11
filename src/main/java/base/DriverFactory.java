@@ -32,7 +32,7 @@ public class DriverFactory {
 				FileReader file = new FileReader("src/test/resources/config.properties");
 				p = new Properties();
 				p.load(file);	
-				
+				file.close();
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -44,12 +44,18 @@ public class DriverFactory {
         if (browser.equalsIgnoreCase("chrome")) {
             driver.set(new ChromeDriver());
         } else if (browser.equalsIgnoreCase("edge")) {
-        	System.setProperty("webdriver.edge.driver",p.getProperty("driverPath"));
+        	String driverPath = p.getProperty("driverPath");
+        	if (driverPath != null && !driverPath.trim().isEmpty()) {
+        	      System.setProperty("webdriver.edge.driver", driverPath);
+        	}
         	driver.set(new EdgeDriver());
         } else {
             throw new RuntimeException("Unsupported browser: " + browser);
         }
-        getDriver().get(p.getProperty("appURL"));
+        String appURL = p.getProperty("appURL");
+        if (appURL != null) {
+            getDriver().get(appURL);
+        }
         getDriver().manage().window().maximize();
         getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         

@@ -1,6 +1,9 @@
 package utils;
  
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import base.DriverFactory;
+
 import org.apache.poi.ss.usermodel.*;
  
 import java.io.*;
@@ -9,10 +12,11 @@ import java.util.Date;
 import java.util.List;
  
 public class ExcelWriter {
+	private static Workbook workbook;
+    private static Sheet sheet;
  
-    public static void writeLanguageAndLevel(List<String> languageList, List<String> levelList, String fileName, String sheetNamePrefix, String header1, String header2) {
-        Workbook workbook;
-        Sheet sheet;
+    public static void writeOnExcel(List<String> languageList, List<String> levelList, String fileName, String sheetNamePrefix, String header1, String header2) {
+        
  
         File file = new File(fileName);
         if (file.exists() && file.length() > 0) {
@@ -23,13 +27,15 @@ public class ExcelWriter {
                 return;
             }
         } else {
-            workbook = new XSSFWorkbook(); // Create new workbook if file doesn't exist or is empty
+            workbook = new XSSFWorkbook(); 
         }
  
-        // Generate unique sheet name with timestamp
-        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-        String sheetName = sheetNamePrefix + "_" + timestamp;
-        sheet = workbook.createSheet(sheetName);
+ 
+        
+        
+        
+       
+        sheet = workbook.createSheet(sheetNamePrefix);
  
         // Create bold style for headers
         CellStyle boldStyle = workbook.createCellStyle();
@@ -63,7 +69,7 @@ public class ExcelWriter {
             }
         }
  
-        // Save workbook
+        
         try (FileOutputStream fileOut = new FileOutputStream(fileName)) {
             workbook.write(fileOut);
             workbook.close();

@@ -1,4 +1,3 @@
-
 Feature: Coursera Course Search and Extraction
  
   Scenario: Extracting course details for beginners in web development

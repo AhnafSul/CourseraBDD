@@ -10,10 +10,11 @@ import pages.ContactUsPage;
 import pages.HomePage;
 import pages.UniversityPage;
 import utils.ExcelReader;
+import utils.ExcelWriter;
 
 public class ContactUsSteps {
 
-    ContactUsPage contactUsPage = new ContactUsPage();
+
     HomePage hp = new HomePage();
     UniversityPage up = new UniversityPage();
     ContactUsPage cp = new ContactUsPage();
@@ -47,7 +48,8 @@ public class ContactUsSteps {
         	String need = row[8].toString();
         	String learners;
         	
-        	if(need == "Get in touch with sales") {
+        	if("Get in touch with sales".equals(need)) {
+
         		learners = row[9].toString();
         	}
         	else {
@@ -67,10 +69,11 @@ public class ContactUsSteps {
         	String errorMsg = cp.fillForm(firstName, lastName, email, phoneNumber, institutionType, institutionName, jobRole, department, need, learners, country,states);
         	
         	if(errorMsg != null) {
-            	System.out.println("Error message found : " + errorMsg);
+        		System.out.println("Error message found: "+ errorMsg);
+        		Log.info("***** Error message found : " + errorMsg +" *****");	
             }
             else {
-            	System.out.println("No error message found");
+            	Log.info("***** No error message found *****");
             }
         }
     }

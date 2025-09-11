@@ -1,8 +1,5 @@
 package stepdefinitions;
  
-import org.openqa.selenium.WebDriver;
-import org.testng.asserts.SoftAssert;
-
 import base.Log;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -12,22 +9,19 @@ import pages.SearchPage;
  
 public class SearchAndExtractStep {
 		
-    WebDriver driver;
-    HomePage hp = new HomePage();
-    SearchPage sp = new SearchPage();
-    SoftAssert sa = new SoftAssert();
+    private final HomePage hp = new HomePage();
+    private final SearchPage sp = new SearchPage();
     
     	
     @Given("the user is in home page")
     public void the_user_is_in_home_page() {
     	Log.info("***** user is in the home page *****");
-        System.out.println("the user is in home page");
     }
  
     @When("the user searches for {string}")
     public void the_user_searches_for(String string) {
-    	Log.info("***** Search for 'Web development' *****");
-    	hp.searchBar("web development course");
+    	Log.info("***** Searching for "+string +" *****");
+    	hp.searchBar(string);
     }
  
     @When("filters by Beginner level and English language")

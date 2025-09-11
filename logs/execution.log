@@ -1030,3 +1030,2026 @@
 [2025-09-04 13:23:39] [TestNG-tests-1] INFO  pages.HomePage - ***** Fetching the course details and convert it into a list *****
 [2025-09-04 13:23:40] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250904_132340' will be added with a trimmed name 'chrome_CourseDetails_20250904_1' for MS Excel compliance.
 [2025-09-04 13:23:41] [TestNG-tests-1] INFO  stepdefinitions.LanguageExtractionSteps - ***** Scenario finished *****
+[2025-09-05 11:06:59] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:06:59] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:07:13] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:07:32] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:07:34] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:07:34] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:07:44] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:08:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:08:01] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:08:05] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:08:12] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:08:14] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:08:27] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:08:28] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:08:38] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:08:41] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:08:41] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:08:41] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:08:41] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:08:41] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:08:56] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:09:09] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:09:13] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:09:23] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:09:23] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:09:23] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:09:24] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:09:24] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:09:26] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:09:26] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:09:26] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:09:36] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:09:42] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:09:42] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:09:42] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:09:43] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:09:44] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250905_110944' will be added with a trimmed name 'edge_CourseDetails_20250905_110' for MS Excel compliance.
+[2025-09-05 11:09:45] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:10:03] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:10:15] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:10:15] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:10:15] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:10:22] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:10:27] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:10:27] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:10:27] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:10:28] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250905_111028' will be added with a trimmed name 'chrome_CourseDetails_20250905_1' for MS Excel compliance.
+[2025-09-05 11:10:28] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:20:57] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:20:57] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:20:57] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:20:57] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:21:12] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:21:19] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:21:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:21:20] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:21:20] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:21:20] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:21:30] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:21:30] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:21:38] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:21:42] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:21:56] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:21:56] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:22:03] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:22:07] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:22:07] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:22:07] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:22:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:22:16] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:22:20] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:22:20] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:22:20] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:22:22] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250905_112222' will be added with a trimmed name 'edge_CourseDetails_20250905_112' for MS Excel compliance.
+[2025-09-05 11:22:23] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:22:27] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:22:27] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:22:28] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:22:28] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:22:28] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:22:42] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:22:49] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:22:59] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:22:59] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:22:59] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:23:07] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:23:11] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:23:11] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:23:11] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:23:12] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:28:28] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:28:28] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:28:42] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:28:42] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:28:57] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:28:57] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:28:59] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:28:59] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:29:06] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:29:11] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:29:27] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:29:29] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:29:33] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:29:37] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:29:46] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:29:47] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:29:58] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:29:58] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:29:59] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:29:59] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:29:59] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:30:04] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:30:04] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:30:07] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:30:07] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:30:07] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:30:16] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:30:20] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:30:23] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:30:27] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:30:32] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:30:32] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:30:32] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:30:33] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:30:40] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:30:40] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:30:40] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:30:43] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:30:48] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:30:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:30:52] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:30:52] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:30:53] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:39:27] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:39:27] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:39:41] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:39:47] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:39:54] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:39:54] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:39:57] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:39:57] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:40:00] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:40:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:40:15] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:40:16] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:40:21] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:40:22] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:40:32] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:40:32] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:40:49] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:40:49] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:40:50] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:40:50] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:40:50] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:40:53] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:40:53] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:40:54] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:40:54] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:40:54] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:41:09] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:41:12] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:41:19] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:41:20] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:41:32] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:41:32] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:41:32] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:41:36] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:41:37] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:41:37] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:41:41] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:41:50] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:41:50] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:41:50] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:41:50] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:41:52] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250905_114152' will be added with a trimmed name 'edge_CourseDetails_20250905_114' for MS Excel compliance.
+[2025-09-05 11:41:53] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:41:54] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:41:54] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:41:54] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:41:56] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:44:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:44:14] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:44:25] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:44:43] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:44:48] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:44:48] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:44:59] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:44:59] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:44:59] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:45:03] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:45:19] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:45:21] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:45:23] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:45:26] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:45:35] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:45:36] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:45:46] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:45:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:45:49] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:45:49] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:45:49] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:45:51] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:45:51] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:45:52] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:45:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:45:52] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:46:08] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:46:08] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:46:15] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:46:16] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:46:28] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:46:28] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:46:28] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:46:29] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:46:29] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:46:29] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:46:44] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:46:44] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:46:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:46:51] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:46:51] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:46:54] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250905_114654' will be added with a trimmed name 'chrome_CourseDetails_20250905_1' for MS Excel compliance.
+[2025-09-05 11:46:55] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:46:56] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:46:56] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:46:56] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:46:58] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250905_114658' will be added with a trimmed name 'edge_CourseDetails_20250905_114' for MS Excel compliance.
+[2025-09-05 11:46:58] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:49:22] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:49:22] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:49:44] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:50:06] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-05 11:51:39] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:51:39] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:52:04] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:52:16] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-05 11:52:16] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-05 11:52:22] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-05 11:52:25] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:52:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:52:57] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-05 11:53:06] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:53:18] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-05 11:53:18] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-05 11:53:19] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-05 11:53:19] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-05 11:53:19] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-05 11:53:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:54:05] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 11:54:16] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-05 11:54:16] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-05 11:54:16] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-05 11:54:21] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:54:25] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-05 11:54:30] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-05 11:54:30] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:54:30] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-05 11:54:34] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250905_115434' will be added with a trimmed name 'edge_CourseDetails_20250905_115' for MS Excel compliance.
+[2025-09-05 11:54:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 11:54:49] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-05 14:00:36] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-05 21:40:39] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-06 12:18:10] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:05:29] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:05:29] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:05:38] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:05:42] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:05:55] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:05:55] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:05:59] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:05:59] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:06:00] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:06:03] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:06:14] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:06:14] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:06:18] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:06:19] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:06:30] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:06:30] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:06:35] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:06:35] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:06:36] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:06:36] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:06:36] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:06:37] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:06:37] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:06:39] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:06:39] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:06:39] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:06:45] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:06:46] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:07:00] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:07:00] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:07:05] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:07:05] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:07:05] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:07:07] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:07:07] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:07:07] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:07:13] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:07:14] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:07:16] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:07:16] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:07:16] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:07:17] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250908_090717' will be added with a trimmed name 'chrome_CourseDetails_20250908_0' for MS Excel compliance.
+[2025-09-08 09:07:18] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:07:18] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:07:18] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:07:18] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:07:19] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250908_090719' will be added with a trimmed name 'edge_CourseDetails_20250908_090' for MS Excel compliance.
+[2025-09-08 09:07:19] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:17:52] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:17:52] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:18:00] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:18:00] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:18:09] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:18:09] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:18:10] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:18:10] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:18:14] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:18:15] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:18:27] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:18:28] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:18:31] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:18:32] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:18:37] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:18:38] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:18:43] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:18:43] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:18:43] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:18:44] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:18:44] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:18:47] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:18:47] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:18:47] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:18:47] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:18:47] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:18:53] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:18:56] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:18:57] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:19:00] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:19:02] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:19:02] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:19:02] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:19:07] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:19:07] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:19:07] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:19:08] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:19:12] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:19:12] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:19:12] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:19:12] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:19:14] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250908_091914' will be added with a trimmed name 'edge_CourseDetails_20250908_091' for MS Excel compliance.
+[2025-09-08 09:19:14] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:19:14] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:19:14] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:19:14] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:19:16] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:28:32] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:28:32] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:28:38] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:28:40] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:28:47] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:28:47] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:28:51] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:28:51] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:28:51] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:28:54] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:29:04] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:29:05] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:29:10] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:29:16] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:29:20] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:29:22] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:29:24] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:29:24] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:29:25] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:29:25] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:29:25] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:29:31] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:29:31] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:29:32] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:29:32] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:29:32] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:29:40] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:29:46] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:29:49] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:29:51] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:29:51] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:29:51] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:29:58] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:29:59] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:30:02] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:30:02] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:30:02] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:30:03] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250908_093003' will be added with a trimmed name 'edge_CourseDetails_20250908_093' for MS Excel compliance.
+[2025-09-08 09:30:04] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:30:04] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:30:04] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:30:04] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:30:09] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:30:10] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:30:10] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:30:10] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:30:12] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:36:56] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:36:56] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:37:02] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:37:04] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:37:10] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:37:10] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:37:13] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:37:13] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:37:15] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:37:16] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:37:29] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:37:29] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:37:32] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:37:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:37:39] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:37:40] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:37:46] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:37:46] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:37:46] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:37:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:37:47] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:37:47] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:37:47] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:37:48] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:37:48] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:37:48] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:37:55] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_2025-09-08_09:37:55_086' will be added with a trimmed name 'chrome_Results_2025-09-08_09:37' for MS Excel compliance.
+[2025-09-08 09:37:55] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:37:56] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_2025-09-08_09:37:56_884' will be added with a trimmed name 'edge_Results_2025-09-08_09:37:5' for MS Excel compliance.
+[2025-09-08 09:37:56] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:37:59] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:38:02] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:38:07] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:38:07] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:38:07] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:38:07] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:38:07] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:38:07] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:38:11] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:38:14] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:38:14] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:38:14] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:38:15] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:38:16] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_2025-09-08_09:38:16_167' will be added with a trimmed name 'chrome_CourseDetails_2025-09-08' for MS Excel compliance.
+[2025-09-08 09:38:16] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:38:21] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:38:21] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:38:21] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:38:22] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_2025-09-08_09:38:22_502' will be added with a trimmed name 'edge_CourseDetails_2025-09-08_0' for MS Excel compliance.
+[2025-09-08 09:38:22] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:38:58] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:38:58] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:39:03] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:39:05] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:39:11] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:39:11] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:39:13] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:39:13] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:39:15] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:39:16] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:39:28] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:39:29] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:39:32] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:39:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:39:38] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:39:41] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:39:46] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:39:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:39:46] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:39:46] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:39:47] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:39:47] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:39:47] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:39:47] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:39:47] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:39:47] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:39:54] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_2025-09-08_09-39-54_520' will be added with a trimmed name 'chrome_Results_2025-09-08_09-39' for MS Excel compliance.
+[2025-09-08 09:39:55] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:39:56] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_2025-09-08_09-39-56_275' will be added with a trimmed name 'edge_Results_2025-09-08_09-39-5' for MS Excel compliance.
+[2025-09-08 09:39:56] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:39:59] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:40:01] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:40:06] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:40:06] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:40:06] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:40:07] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:40:07] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:40:07] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:40:12] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:40:12] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:40:15] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:40:15] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:40:15] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:40:16] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:40:16] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:40:16] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:40:16] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:40:18] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:45:28] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:45:28] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:45:36] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:45:37] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:45:46] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:45:46] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:45:48] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:45:48] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:45:53] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:45:55] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:46:09] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:46:11] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:46:18] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:46:19] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:46:39] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:46:40] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:46:47] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:46:47] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:46:47] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:46:47] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:46:47] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:46:48] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:46:48] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:47:01] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_2025-09-08_09-47-01_475' will be added with a trimmed name 'edge_Results_2025-09-08_09-47-0' for MS Excel compliance.
+[2025-09-08 09:47:02] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:47:02] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:47:02] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:47:02] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:47:14] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_2025-09-08_09-47-14_445' will be added with a trimmed name 'chrome_Results_2025-09-08_09-47' for MS Excel compliance.
+[2025-09-08 09:47:14] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:47:14] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:47:20] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:47:20] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:47:20] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:47:26] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:47:31] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:47:35] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:47:35] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:47:35] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:47:37] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:47:38] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:47:38] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development' *****
+[2025-09-08 09:47:38] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:47:45] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:47:48] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:47:48] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:47:48] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:47:49] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:51:29] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:51:29] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:51:29] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:51:29] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:51:36] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:51:36] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:51:36] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 09:51:37] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:51:37] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:51:37] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:51:44] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 09:51:44] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 09:51:47] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_2025-09-08_09-51-47_578' will be added with a trimmed name 'edge_Results_2025-09-08_09-51-4' for MS Excel compliance.
+[2025-09-08 09:51:48] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 09:51:48] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:51:53] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:51:58] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:51:58] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 09:51:58] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:52:00] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 09:52:03] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:52:04] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:52:06] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:52:06] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:52:06] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:52:07] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:52:10] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:52:16] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 09:52:16] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 09:52:17] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 09:52:17] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 09:52:17] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 09:52:25] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_2025-09-08_09-52-25_418' will be added with a trimmed name 'chrome_Results_2025-09-08_09-52' for MS Excel compliance.
+[2025-09-08 09:52:25] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 09:52:30] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 09:52:35] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 09:52:35] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 09:52:35] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 09:52:45] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 09:52:47] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 09:52:47] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:52:47] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 09:52:48] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:01:00] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:01:00] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:01:06] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 10:01:10] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 10:01:14] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 10:01:14] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 10:01:17] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 10:01:17] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 10:01:18] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 10:01:21] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 10:01:31] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 10:01:33] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 10:01:35] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:01:36] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:01:41] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:01:42] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:01:46] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 10:01:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 10:01:47] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 10:01:47] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 10:01:47] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 10:01:49] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 10:01:49] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 10:01:51] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 10:01:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 10:01:51] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 10:01:57] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_2025-09-08_10-01-57_515' will be added with a trimmed name 'chrome_Results_2025-09-08_10-01' for MS Excel compliance.
+[2025-09-08 10:01:57] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:02:00] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_2025-09-08_10-02-00_090' will be added with a trimmed name 'edge_Results_2025-09-08_10-02-0' for MS Excel compliance.
+[2025-09-08 10:02:00] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:02:03] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:02:07] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:02:11] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 10:02:11] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 10:02:11] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 10:02:13] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 10:02:13] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 10:02:13] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 10:02:17] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 10:02:18] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 10:02:20] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 10:02:20] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:02:20] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:02:20] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 10:02:20] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:02:20] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:02:21] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:02:22] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_2025-09-08_10-02-22_324' will be added with a trimmed name 'edge_CourseDetails_2025-09-08_1' for MS Excel compliance.
+[2025-09-08 10:02:22] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:03:40] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:03:40] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:03:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 10:03:48] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 10:03:55] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 10:03:55] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 10:03:55] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 10:03:55] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 10:03:58] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 10:03:59] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 10:04:11] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 10:04:12] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 10:04:15] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:04:16] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:04:21] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:04:23] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:04:30] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 10:04:30] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 10:04:30] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 10:04:30] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 10:04:30] [TestNG-tests-2] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 10:04:30] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 10:04:30] [TestNG-tests-2] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 10:04:31] [TestNG-tests-1] INFO  base.Log - ***** Changing Tab *****
+[2025-09-08 10:04:31] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 10:04:31] [TestNG-tests-1] INFO  base.Log - ***** Extracted languages and levels *****
+[2025-09-08 10:04:41] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:04:44] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:04:50] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:04:52] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 10:04:55] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 10:04:55] [TestNG-tests-2] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 10:04:55] [TestNG-tests-2] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 10:05:00] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 10:05:03] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 10:05:03] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:05:03] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:05:04] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_1110047584608400' will be added with a trimmed name 'edge_CourseDetails_111004758460' for MS Excel compliance.
+[2025-09-08 10:05:04] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 10:05:05] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 10:05:05] [TestNG-tests-1] INFO  base.Log - ***** Search for 'Web development courses' *****
+[2025-09-08 10:05:05] [TestNG-tests-1] INFO  base.Log - ***** Search Web Development *****
+[2025-09-08 10:05:10] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 10:05:12] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 10:05:12] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:05:12] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 10:05:13] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_1110056939894600' will be added with a trimmed name 'chrome_CourseDetails_1110056939' for MS Excel compliance.
+[2025-09-08 10:05:13] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:36:16] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:36:16] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:36:25] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 11:36:28] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 11:36:39] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 11:36:39] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 11:36:41] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 11:36:41] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 11:36:44] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 11:36:45] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 11:37:08] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:37:08] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:37:13] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:37:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:37:19] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:37:21] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:37:21] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 11:37:21] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 11:37:23] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-08 11:37:23] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:37:23] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:37:28] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:37:33] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:37:33] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:37:38] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:37:38] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-08 11:37:38] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-08 11:37:40] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:37:46] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:37:46] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-08 11:37:46] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-08 11:37:47] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 11:37:47] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-08 11:37:47] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-08 11:37:50] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 11:37:50] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 11:37:51] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_1115614528158400' will be added with a trimmed name 'edge_CourseDetails_111561452815' for MS Excel compliance.
+[2025-09-08 11:37:51] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:37:56] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 11:37:56] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-08 11:37:56] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-08 11:37:58] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 11:37:58] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 11:37:59] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_1115622994012800' will be added with a trimmed name 'chrome_CourseDetails_1115622994' for MS Excel compliance.
+[2025-09-08 11:37:59] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:40:08] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:40:08] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:40:15] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 11:40:15] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 11:40:23] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 11:40:23] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 11:40:25] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 11:40:25] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 11:40:27] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 11:40:30] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 11:40:50] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:40:52] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:40:56] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:40:59] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:41:05] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:41:05] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 11:41:05] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 11:41:05] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:41:05] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-08 11:41:05] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-08 11:41:06] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-08 11:41:06] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:41:06] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:41:06] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-08 11:41:06] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:41:06] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-08 11:41:15] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:41:15] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:41:19] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:41:21] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 11:41:27] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:41:27] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-08 11:41:27] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-08 11:41:28] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-08 11:41:28] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-08 11:41:28] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-08 11:41:34] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 11:41:34] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-08 11:41:34] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-08 11:41:36] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 11:41:36] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 11:41:37] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-08 11:41:37] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-08 11:41:37] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_1115840501336300' will be added with a trimmed name 'chrome_CourseDetails_1115840501' for MS Excel compliance.
+[2025-09-08 11:41:37] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 11:41:37] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-08 11:41:39] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-08 11:41:39] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-08 11:41:40] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_1115843977114799' will be added with a trimmed name 'edge_CourseDetails_111584397711' for MS Excel compliance.
+[2025-09-08 11:41:40] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:07:46] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:07:46] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:07:59] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:08:03] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:08:11] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:08:11] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:08:19] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:08:22] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:08:22] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:08:26] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:08:28] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:08:28] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:08:31] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:08:31] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:08:34] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:08:35] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:10:39] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:10:39] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:10:50] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:10:57] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:11:02] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:11:02] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:11:10] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:11:10] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:11:10] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:11:14] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:11:19] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:11:20] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:11:20] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:11:20] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:11:26] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:11:26] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:23:24] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:23:24] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:23:39] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:23:39] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:23:55] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:23:55] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:23:56] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:23:56] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:24:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:24:07] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:24:09] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:24:09] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:24:14] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:24:15] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:24:17] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-08 18:24:17] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:24:22] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-08 18:24:22] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:30:22] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:30:22] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-08 18:30:34] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:30:40] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-08 18:30:52] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:30:52] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:30:58] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-08 18:30:58] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-08 18:30:58] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:31:09] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:31:10] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:31:11] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-08 18:31:18] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-08 18:31:18] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-08 18:31:18] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-08 18:31:18] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-08 18:31:23] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-08 18:31:23] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:14:31] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:14:31] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:14:45] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:14:50] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:14:56] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:14:56] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:15:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:15:01] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:15:03] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:15:05] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:15:10] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:15:11] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:15:11] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:15:12] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:15:15] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:15:15] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:15:17] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:15:17] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:35:03] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:35:03] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:35:15] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:35:16] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:35:30] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:35:30] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:35:32] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:35:32] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:35:34] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:35:39] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:35:44] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:35:44] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:35:45] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:35:46] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:35:49] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:35:49] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:35:52] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:35:52] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:35:59] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:35:59] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:36:10] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:36:10] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:36:10] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:36:11] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:36:11] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:36:11] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:36:13] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:36:13] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:36:13] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:36:14] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:36:14] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:36:14] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:36:28] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:36:28] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:36:34] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:36:34] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:36:44] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:36:44] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:36:44] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:36:46] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:36:46] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:36:46] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:36:54] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:36:54] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:36:55] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:36:55] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:36:55] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:36:57] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:36:59] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:36:59] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:37:01] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_154183086381300' will be added with a trimmed name 'chrome_CourseDetails_1541830863' for MS Excel compliance.
+[2025-09-11 09:37:01] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:37:01] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:37:02] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:37:03] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_154184918386800' will be added with a trimmed name 'edge_CourseDetails_154184918386' for MS Excel compliance.
+[2025-09-11 09:37:03] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:48:05] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:48:05] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:48:16] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:48:17] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:48:29] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:48:29] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:48:29] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:48:29] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:48:34] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:48:36] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:48:42] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:48:42] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:48:42] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:48:43] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:48:50] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:48:50] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:48:50] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:48:50] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:48:58] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:48:58] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:49:09] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:49:09] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:49:09] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:49:11] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:49:11] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:49:11] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:49:13] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:49:13] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:49:13] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:49:16] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:49:17] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:49:17] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:49:28] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_094928154929631503800' will be added with a trimmed name 'edge_Results_20250911_094928154' for MS Excel compliance.
+[2025-09-11 09:49:29] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:49:29] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:49:36] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:49:37] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:49:48] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:49:48] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:49:48] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:49:49] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:49:49] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:49:49] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:49:57] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:49:57] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:49:58] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:49:59] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:49:59] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:50:02] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:50:02] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:50:04] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:50:04] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250911_095004154966114911500' will be added with a trimmed name 'chrome_CourseDetails_20250911_0' for MS Excel compliance.
+[2025-09-11 09:50:04] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:50:06] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:50:06] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:50:08] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250911_095008154970118899800' will be added with a trimmed name 'edge_CourseDetails_20250911_095' for MS Excel compliance.
+[2025-09-11 09:50:08] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:55:15] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:55:15] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:55:28] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:55:31] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 09:55:44] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:55:44] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:55:45] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 09:55:45] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 09:55:49] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:55:51] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 09:55:58] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:55:58] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:55:59] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 09:55:59] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 09:56:03] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:56:03] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:56:06] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 09:56:06] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:56:13] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:56:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:56:23] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:56:23] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:56:23] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:56:24] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:56:24] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:56:24] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:56:30] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:56:30] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 09:56:30] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 09:56:32] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 09:56:32] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:56:32] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 09:56:37] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_095637155358388644000' will be added with a trimmed name 'edge_Results_20250911_095637155' for MS Excel compliance.
+[2025-09-11 09:56:37] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:56:43] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:56:44] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_20250911_095644155365595341600' will be added with a trimmed name 'chrome_Results_20250911_0956441' for MS Excel compliance.
+[2025-09-11 09:56:44] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:56:51] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:56:51] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:56:51] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:56:51] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 09:56:59] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:56:59] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:57:00] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:57:01] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 09:57:01] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 09:57:01] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 09:57:04] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:57:04] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:57:07] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 09:57:10] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 09:57:10] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 09:57:10] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 09:57:13] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 09:57:13] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 09:57:15] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:07:27] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:07:27] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:07:57] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 10:07:57] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 10:08:52] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 10:08:52] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 10:09:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 10:09:01] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 10:09:34] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 10:09:37] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 10:09:37] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 10:09:40] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 10:09:40] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:09:54] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 10:09:57] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 10:09:57] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 10:10:06] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 10:10:06] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:10:21] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:10:30] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:10:30] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 10:10:30] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 10:10:31] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 10:10:31] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:10:31] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:10:38] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_20250911_101038156200299249000chrome' will be added with a trimmed name 'chrome_Results_20250911_1010381' for MS Excel compliance.
+[2025-09-11 10:10:39] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:10:43] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:10:48] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:10:48] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 10:10:48] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 10:10:49] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 10:10:49] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:10:49] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:10:56] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_101056156218266166200edge' will be added with a trimmed name 'edge_Results_20250911_101056156' for MS Excel compliance.
+[2025-09-11 10:10:57] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:10:57] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:11:04] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:11:04] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 10:11:04] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 10:11:10] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 10:11:10] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 10:11:10] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 10:11:12] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 10:11:12] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 10:11:14] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails_20250911_101114156235905956000chrome' will be added with a trimmed name 'chrome_CourseDetails_20250911_1' for MS Excel compliance.
+[2025-09-11 10:11:14] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:11:16] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:11:21] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:11:21] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 10:11:21] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 10:11:26] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 10:11:26] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 10:11:27] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 10:11:31] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 10:11:31] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 10:11:32] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250911_101132156253947166400edge' will be added with a trimmed name 'edge_CourseDetails_20250911_101' for MS Excel compliance.
+[2025-09-11 10:11:32] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:13:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:13:14] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:13:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 10:13:21] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:13:21] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 10:13:22] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 10:13:23] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 10:13:23] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:13:23] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:13:27] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 10:13:27] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 10:13:32] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 10:13:32] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_20250911_101332chrome' will be added with a trimmed name 'chrome_Results_20250911_101332c' for MS Excel compliance.
+[2025-09-11 10:13:33] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:13:34] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 10:13:34] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 10:13:37] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:13:39] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 10:13:39] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:13:43] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:13:44] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 10:13:44] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 10:13:45] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:13:51] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:13:51] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 10:13:51] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 10:13:52] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 10:13:52] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:13:52] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 10:13:53] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 10:13:53] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 10:13:54] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 10:13:56] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 10:13:56] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 10:13:58] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:13:59] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_101359edge' will be added with a trimmed name 'edge_Results_20250911_101359edg' for MS Excel compliance.
+[2025-09-11 10:13:59] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 10:14:04] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 10:14:08] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 10:14:08] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 10:14:08] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 10:14:12] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 10:14:12] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 10:14:13] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 10:14:15] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 10:14:15] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 10:14:16] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 12:18:58] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 12:18:58] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 12:19:05] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 12:19:17] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 12:19:17] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 12:19:18] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 12:19:24] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 12:19:25] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 12:19:25] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 12:19:29] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 12:19:29] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 12:19:29] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 12:19:32] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 12:19:32] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 12:19:33] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 12:19:33] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 12:19:35] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 12:19:35] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 12:19:40] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 12:19:40] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 12:19:45] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 12:19:45] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 12:19:45] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 12:19:49] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 12:19:49] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 12:19:49] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 12:19:51] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 12:19:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 12:19:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 12:19:52] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 12:19:52] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 12:19:52] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 12:19:59] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_121959edge' will be added with a trimmed name 'edge_Results_20250911_121959edg' for MS Excel compliance.
+[2025-09-11 12:19:59] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_20250911_121959chrome' will be added with a trimmed name 'chrome_Results_20250911_121959c' for MS Excel compliance.
+[2025-09-11 12:20:00] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 12:20:00] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:26:56] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:26:56] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:27:01] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:27:02] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:27:16] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:27:16] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:27:16] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:27:23] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:27:23] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:27:24] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:27:24] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:27:24] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:27:27] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:27:34] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:27:39] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:28:05] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:28:05] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:28:08] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:28:09] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:28:09] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:28:09] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:28:13] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:28:14] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:28:17] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:28:17] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:28:17] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:28:19] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:28:19] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:28:19] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:28:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:28:24] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:28:27] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:28:27] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:28:31] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:28:31] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:28:42] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:28:42] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:28:44] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails_20250911_132844edge' will be added with a trimmed name 'edge_CourseDetails_20250911_132' for MS Excel compliance.
+[2025-09-11 13:28:44] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:28:45] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:28:46] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:28:53] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:28:53] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:28:53] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:28:54] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:28:54] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:28:54] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:28:54] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:28:55] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:28:55] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:28:55] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:28:55] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:28:55] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:29:03] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Results_20250911_132903edge' will be added with a trimmed name 'edge_Results_20250911_132903edg' for MS Excel compliance.
+[2025-09-11 13:29:04] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:29:04] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results_20250911_132904chrome' will be added with a trimmed name 'chrome_Results_20250911_132904c' for MS Excel compliance.
+[2025-09-11 13:29:05] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:29:16] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:29:17] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:29:23] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:29:23] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:29:23] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:29:24] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:29:24] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:29:24] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:29:29] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:29:29] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:29:30] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:29:30] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:29:30] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:29:30] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:29:32] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:29:32] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:29:33] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:29:33] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:29:34] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:29:35] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:38:07] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:38:07] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:38:12] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:38:19] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:38:20] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:38:20] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:38:24] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:38:27] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:38:27] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:38:28] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:38:28] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:38:30] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:38:30] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:38:31] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:38:34] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:38:34] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:38:35] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:38:38] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:38:38] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:38:39] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:38:39] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:38:39] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:38:42] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:38:42] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:38:42] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:38:44] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:38:50] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:38:51] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:38:51] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:38:51] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:38:52] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:38:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:38:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:38:54] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:39:00] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:39:00] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:39:00] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:39:01] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_133900851' will be added with a trimmed name 'chrome_Results20250911_13390085' for MS Excel compliance.
+[2025-09-11 13:39:01] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:39:05] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:39:05] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:39:07] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:39:07] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:39:07] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:39:08] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:39:09] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:39:14] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:39:14] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:39:14] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:39:19] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:39:19] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:39:20] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:39:22] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:39:22] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:39:23] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:39:42] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:39:42] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:39:48] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:39:49] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:39:57] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:39:57] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:39:58] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:39:58] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:40:01] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:40:01] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:40:05] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:40:05] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:40:05] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:40:06] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:40:08] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:40:08] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:40:10] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:40:10] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:40:15] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:40:16] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:40:19] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:40:19] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:40:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:40:21] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:40:21] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:40:21] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:40:24] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:40:24] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:40:24] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:40:25] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:40:25] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:40:25] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:40:30] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:40:33] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_134033010' will be added with a trimmed name 'chrome_Results20250911_13403301' for MS Excel compliance.
+[2025-09-11 13:40:33] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:40:35] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:40:37] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:40:39] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:40:39] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:40:39] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:40:44] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:40:44] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:40:44] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:40:45] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:40:45] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:40:45] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:40:48] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:40:48] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:40:49] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:40:49] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:40:49] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:40:51] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:40:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:40:51] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:40:53] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:45:34] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:45:34] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:45:41] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:45:42] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:45:49] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:45:49] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:45:49] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:45:49] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:45:52] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:45:54] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:45:56] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:45:56] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:45:57] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:45:57] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:46:00] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:46:00] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:46:01] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:46:01] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:46:06] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:46:07] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:46:13] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:46:13] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:46:13] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:46:13] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:46:13] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:46:13] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:46:14] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:46:14] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:46:14] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:46:14] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:46:15] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:46:15] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:46:23] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_134623261' will be added with a trimmed name 'chrome_Results20250911_13462326' for MS Excel compliance.
+[2025-09-11 13:46:23] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:46:23] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:46:29] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:46:29] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:46:34] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:46:34] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:46:34] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:46:36] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:46:36] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:46:36] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:46:39] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:46:39] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:46:40] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:46:43] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:46:43] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:46:44] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:47:03] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:47:03] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:47:04] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:47:06] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:47:06] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:47:08] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:47:53] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:47:53] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:47:59] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:48:00] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:48:09] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:48:09] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:48:10] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:48:10] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:48:13] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:48:14] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:48:17] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:48:17] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:48:17] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:48:17] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:48:21] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:48:21] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:48:21] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:48:21] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:48:25] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:48:28] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:48:32] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:48:32] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:48:32] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:48:33] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:48:33] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:48:33] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:48:33] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:48:33] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:48:33] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:48:34] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:48:34] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:48:34] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:48:47] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:48:53] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:48:54] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:48:57] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:48:57] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:48:57] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:48:59] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:49:04] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:49:04] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:49:05] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:49:06] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:49:06] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:49:06] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:49:07] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:49:07] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:49:09] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:49:11] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:49:11] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:49:11] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:49:13] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:49:13] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:49:14] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:50:52] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:50:52] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:51:00] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:51:01] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:51:08] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:51:08] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:51:09] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:51:09] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:51:12] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:51:14] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:51:16] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:51:16] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:51:17] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:51:17] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:51:20] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:51:20] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:51:22] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:51:22] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:51:25] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:51:27] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:51:32] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:51:32] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:51:32] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:51:33] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:51:33] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:51:33] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:51:34] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:51:34] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:51:34] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:51:34] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:51:34] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:51:34] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:51:42] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_135141983' will be added with a trimmed name 'chrome_Results20250911_13514198' for MS Excel compliance.
+[2025-09-11 13:51:42] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:51:43] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:51:46] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:51:48] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:51:53] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:51:53] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:51:53] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:51:53] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:51:53] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:51:53] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:51:59] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:51:59] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:52:00] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:52:00] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:52:00] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:52:02] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:52:02] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:52:02] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:52:02] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:52:02] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:52:04] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails20250911_135204525' will be added with a trimmed name 'edge_CourseDetails20250911_1352' for MS Excel compliance.
+[2025-09-11 13:52:04] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:52:04] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails20250911_135204856' will be added with a trimmed name 'chrome_CourseDetails20250911_13' for MS Excel compliance.
+[2025-09-11 13:52:04] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:53:32] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:53:32] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:53:38] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:53:41] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:53:45] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:53:45] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:53:47] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:53:47] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:53:49] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:53:50] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:53:53] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:53:53] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:53:54] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:53:54] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:53:57] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:53:57] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:53:58] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:53:58] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:54:01] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:54:04] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:54:09] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:54:10] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:54:17] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_135417215' will be added with a trimmed name 'chrome_Results20250911_13541721' for MS Excel compliance.
+[2025-09-11 13:54:17] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:54:18] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:54:21] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:54:23] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:54:29] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:54:29] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:54:29] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:54:29] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:54:29] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:54:29] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:54:34] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:54:34] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:54:35] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:54:35] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:54:35] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:54:36] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:54:38] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:54:38] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:54:38] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:54:38] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:54:39] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:54:39] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_CourseDetails20250911_135439654' will be added with a trimmed name 'edge_CourseDetails20250911_1354' for MS Excel compliance.
+[2025-09-11 13:54:39] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:58:03] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:03] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:08] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:58:10] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 13:58:16] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:58:16] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:58:20] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 13:58:20] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 13:58:20] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:58:23] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 13:58:25] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:58:25] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:58:26] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 13:58:26] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 13:58:29] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:58:29] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:58:29] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 13:58:29] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:58:34] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:34] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:39] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:58:39] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:58:39] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:58:40] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:58:40] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:58:40] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:58:41] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:58:41] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 13:58:41] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 13:58:42] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 13:58:42] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:58:42] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 13:58:48] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:58:49] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Results20250911_135849321' will be added with a trimmed name 'chrome_Results20250911_13584932' for MS Excel compliance.
+[2025-09-11 13:58:49] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:58:52] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:54] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 13:58:57] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:58:57] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:58:57] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:59:01] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 13:59:01] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 13:59:01] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 13:59:03] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:59:03] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:59:04] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:59:06] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 13:59:06] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 13:59:06] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:59:06] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:59:06] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 13:59:08] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 13:59:08] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 13:59:08] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 13:59:10] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_CourseDetails11_135910452' will be added with a trimmed name 'chrome_CourseDetails11_13591045' for MS Excel compliance.
+[2025-09-11 13:59:10] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:00:19] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:00:19] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:00:24] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:00:25] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:00:31] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:00:31] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:00:32] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:00:32] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:00:35] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:00:36] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:00:38] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:00:39] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:00:39] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:00:39] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:00:42] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:00:42] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:00:43] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:00:43] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:00:46] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:00:48] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:00:53] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:00:53] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:00:53] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:00:53] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:00:53] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:00:53] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:00:54] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:00:54] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:00:54] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:00:55] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:00:55] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:00:55] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:01:02] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:01:02] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:01:07] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:01:07] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:01:12] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:01:12] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:01:12] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:01:14] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:01:14] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:01:14] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:01:20] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:01:20] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:01:20] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:01:21] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:01:21] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:01:22] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:01:22] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:01:22] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:01:24] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:01:25] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:01:25] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:01:26] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:02:44] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:02:44] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:02:52] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:02:52] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:02:59] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:02:59] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:03:00] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:03:00] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:03:03] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:03:04] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:03:07] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:03:07] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:03:07] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:03:07] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:03:11] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:03:11] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:03:11] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:03:11] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:03:16] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:03:16] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:03:21] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:03:21] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:03:21] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:03:22] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:03:22] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:03:22] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:03:23] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:03:23] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:03:23] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:03:24] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:03:24] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:03:24] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:03:30] [TestNG-tests-2] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'edge_Raaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa11_140330212' will be added with a trimmed name 'edge_Raaaaaaaaaaaaaaaaaaaaaaaaa' for MS Excel compliance.
+[2025-09-11 14:03:30] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:03:34] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:03:36] [TestNG-tests-1] WARN  org.apache.poi.xssf.usermodel.XSSFWorkbook - Sheet 'chrome_Raaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa11_140336458' will be added with a trimmed name 'chrome_Raaaaaaaaaaaaaaaaaaaaaaa' for MS Excel compliance.
+[2025-09-11 14:03:36] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:03:38] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:03:38] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:03:38] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:03:41] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:03:43] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:03:43] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:03:43] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:03:46] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:03:46] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:03:47] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:03:47] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:03:47] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:03:47] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:03:52] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:03:52] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:03:52] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:03:54] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:03:54] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:03:56] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:04:14] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:04:14] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:04:19] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:04:21] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:04:27] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:04:27] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:04:28] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:04:28] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:04:31] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:04:32] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:04:35] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:04:35] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:04:36] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:04:36] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:04:39] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:04:39] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:04:40] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:04:40] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:04:47] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:04:48] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:04:53] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:04:53] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:04:53] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:04:54] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:04:54] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:04:54] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:04:55] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:04:55] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:04:55] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:04:55] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:04:57] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:04:57] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:05:03] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:05:05] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:05:11] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:05:12] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:05:16] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:05:16] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:05:16] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:05:18] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:05:18] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:05:18] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:05:23] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:05:23] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:05:24] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:05:24] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:05:24] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:05:26] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:05:26] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:05:26] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:05:27] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:05:27] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:05:27] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:05:28] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:08:04] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:08:04] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:08:11] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:08:12] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:08:22] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:08:22] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:08:26] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:08:27] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:08:27] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:08:30] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:08:32] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:08:32] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:08:32] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:08:32] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:08:36] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:08:36] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:08:36] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:08:36] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:08:44] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:08:44] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:08:49] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:08:49] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:08:49] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:08:51] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:08:51] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:08:51] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:08:51] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:08:51] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:08:51] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:08:52] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:08:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:08:52] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:08:59] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:09:00] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:09:04] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:09:05] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:09:10] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:09:10] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:09:10] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:09:12] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:09:12] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:09:12] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:09:15] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:09:15] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:09:16] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:09:18] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:09:18] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:09:18] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:09:20] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:09:20] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:09:21] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:09:21] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:09:21] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:09:22] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:23:52] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:23:52] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:23:57] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:24:01] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:24:05] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:24:05] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:24:08] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:24:08] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:24:09] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:24:11] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:24:13] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:24:13] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:24:14] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:24:14] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:24:18] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:24:18] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:24:19] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:24:19] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:24:23] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:24:25] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:24:29] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:24:29] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:24:29] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:24:30] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:24:30] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:24:30] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:24:34] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:24:39] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:24:43] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:24:44] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:24:47] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:24:47] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:24:47] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:24:50] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:24:52] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:24:52] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:24:53] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:24:55] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:24:55] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:24:56] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:24:56] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:24:56] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:24:57] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:25:03] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:25:03] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:25:03] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:25:05] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:25:05] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:25:06] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:43:11] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:43:11] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:43:18] [TestNG-tests-2] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:43:19] [TestNG-tests-1] INFO  base.Log - ***** Clicking For Universities *****
+[2025-09-11 14:43:25] [TestNG-tests-2] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:43:25] [TestNG-tests-2] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:43:28] [TestNG-tests-1] INFO  base.Log - Clicked on 'For University'
+[2025-09-11 14:43:28] [TestNG-tests-1] INFO  base.Log - ***** Clicking Contact Us Button *****
+[2025-09-11 14:43:29] [TestNG-tests-2] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:43:31] [TestNG-tests-1] INFO  base.Log - Clicked on 'Contact Us'
+[2025-09-11 14:43:33] [TestNG-tests-2] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:43:33] [TestNG-tests-2] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:43:34] [TestNG-tests-1] INFO  base.Log - State dropdown filled successfully
+[2025-09-11 14:43:34] [TestNG-tests-1] INFO  base.Log - ***** form filled *****
+[2025-09-11 14:43:37] [TestNG-tests-2] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:43:37] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:43:38] [TestNG-tests-1] INFO  base.Log - ***** Error message found : Must be valid email.
+example@yourdomain.com *****
+[2025-09-11 14:43:38] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:43:42] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:43:44] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:43:46] [TestNG-tests-2] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:43:50] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:43:50] [TestNG-tests-1] INFO  base.Log - ***** Click language learning *****
+[2025-09-11 14:43:50] [TestNG-tests-1] INFO  base.Log - ***** Clicking language learning *****
+[2025-09-11 14:43:51] [TestNG-tests-1] INFO  base.Log - ***** Switching to new tab *****
+[2025-09-11 14:43:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:43:51] [TestNG-tests-1] INFO  base.Log - ***** Extracting languages and levels *****
+[2025-09-11 14:43:55] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:44:00] [TestNG-tests-2] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:44:02] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:44:04] [TestNG-tests-2] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:44:04] [TestNG-tests-2] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:44:04] [TestNG-tests-2] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:44:07] [TestNG-tests-1] INFO  base.Log - ***** Starting scenario *****
+[2025-09-11 14:44:11] [TestNG-tests-2] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:44:11] [TestNG-tests-2] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:44:11] [TestNG-tests-2] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:44:13] [TestNG-tests-1] INFO  base.Log - ***** user is in the home page *****
+[2025-09-11 14:44:13] [TestNG-tests-1] INFO  base.Log - ***** Searching for web development courses *****
+[2025-09-11 14:44:13] [TestNG-tests-1] INFO  base.Log - ***** Search for web development courses *****
+[2025-09-11 14:44:14] [TestNG-tests-2] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:44:14] [TestNG-tests-2] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:44:15] [TestNG-tests-2] INFO  base.Log - ***** Scenario finished *****
+[2025-09-11 14:44:19] [TestNG-tests-1] INFO  base.Log - ***** Filter the course based on language and levels *****
+[2025-09-11 14:44:19] [TestNG-tests-1] INFO  base.Log - ***** Applying language filter *****
+[2025-09-11 14:44:20] [TestNG-tests-1] INFO  base.Log - ***** Applying level filter *****
+[2025-09-11 14:44:23] [TestNG-tests-1] INFO  base.Log - ***** Extracting course deatils *****
+[2025-09-11 14:44:23] [TestNG-tests-1] INFO  base.Log - ***** Fetching the course details and convert it into a list *****
+[2025-09-11 14:44:24] [TestNG-tests-1] INFO  base.Log - ***** Scenario finished *****

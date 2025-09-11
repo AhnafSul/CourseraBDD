@@ -1,23 +1,20 @@
 package stepdefinitions;
 
-import org.testng.asserts.SoftAssert;
-
 import base.Log;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pages.HomePage;
-import pages.languageLearningPage;
+import pages.LanguageLearningPage;
 
 public class LanguageExtractionSteps {
 
-    HomePage hp = new HomePage();
-    languageLearningPage lp = new languageLearningPage();
-    SoftAssert sf = new SoftAssert();
+    private final HomePage hp = new HomePage();
+    private final LanguageLearningPage lp = new LanguageLearningPage();
 
     @Given("user is in the homepage")
     public void user_is_in_the_homepage() {
-        System.out.println("user is in the home page");
+        Log.info("***** user is in the home page *****");
     }
 
     @When("user search click language learning")

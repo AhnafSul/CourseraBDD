@@ -1,20 +1,28 @@
 package pages;
 
+import java.time.Duration;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import base.DriverFactory;
 import base.Log;
 
 public class ContactUsPage{
 	private WebDriver driver;
+	private WebDriverWait wait;
+
 //	private static Logger logger = LogManager.getLogger(ContactUsPage.class); 
 	
 	public ContactUsPage() {
 		this.driver = DriverFactory.getDriver();
+		this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		PageFactory.initElements(driver, this);
 	}
 	
@@ -53,24 +61,39 @@ public class ContactUsPage{
 	    Select s4 = new Select(selectNeeds);
 	    s4.selectByVisibleText(need);
 	    
-	    Thread.sleep(3000);
-	    
-	    if(learners != null) {
-	    	Select s5 = new Select(selectNumberOfLearners);
-	    	s5.selectByVisibleText(learners);
+	    if(learners != null && "Get in touch with sales".equals(need)) {
+	        try {
+	            wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//select[@id='Self_reported_employees_to_buy_for__c']")));
+	            
+	            if(selectNumberOfLearners.isDisplayed()) {
+	                Select s5 = new Select(selectNumberOfLearners);
+	                s5.selectByVisibleText(learners);
+	                Log.info("***** Learners dropdown filled successfully *****");
+	            }
+	        } catch (Exception e) {
+	            Log.info("***** Learners dropdown not required for this selection: " + need +" *****");
+	        }
 	    }
 	    
 	    Select s6 = new Select(selectCountry);
 	    s6.selectByVisibleText(country);
 	    
-	    Thread.sleep(3000);
-	    
+
 	    if(states != null) {
-	    	Select s7 = new Select(selectState);
-	    	s7.selectByVisibleText(states);
+	        try {
+	            wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//select[@id='State']")));
+	            
+	            if(selectState.isDisplayed()) {
+	                Select s7 = new Select(selectState);
+	                s7.selectByVisibleText(states);
+	                Log.info("State dropdown filled successfully");
+	            }
+	        } catch (Exception e) {
+	            Log.info("State dropdown not available for country: " + country);
+	        }
 	    }
-	    Thread.sleep(3000);
 	    
+	    wait.until(ExpectedConditions.elementToBeClickable(submit));
 	    Log.info("***** form filled *****");
 	    submit.click();
 	    
